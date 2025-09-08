@@ -22,7 +22,7 @@ Hi! I'm a passionate Flutter developer with experience in building cross-platfor
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/sirak-nigus-g/))
+- [LinkedIn](https://www.linkedin.com/in/sirak-nigus-g/)
 - [Portfolio Website](https://yourwebsite.com)
 - [Email](mailto:siru67416@gmail.com)
 
