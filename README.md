@@ -19,53 +19,11 @@ Hi! I'm a passionate Flutter developer with experience in building cross-platfor
 - **Tools:** Android Studio, VS Code, Git, Figma, REST APIs, GraphQL
 - **Other:** State management, Animations, Responsive UI, Testing, CI/CD
 
----
-
-## 📱 Featured Projects
-
-### 1. [Project Name](#)
-**Description:** Briefly describe what this app does and its key features.  
-**Technologies:** Flutter, Firebase, Provider  
-**Screenshots:**  
-![screenshot1](path/to/screenshot1.png)  
-![screenshot2](path/to/screenshot2.png)
-
-### 2. [Project Name](#)
-**Description:** Briefly describe another app, unique functionalities, and your role.  
-**Technologies:** Flutter, REST API, Bloc  
-**Screenshots:**  
-![screenshot3](path/to/screenshot3.png)
-
-> **More projects:** See the [projects](./projects) folder for additional examples.
-
----
-
-## 📈 Experience
-
-- **Freelance Flutter Developer**  
-  Worked with clients to deliver customized mobile solutions, from ideation to deployment.
-
-- **Contributor to Open Source**  
-  Contributed to various open-source Flutter packages and libraries.
-
-- **Team Collaboration**  
-  Comfortable working in Agile teams and using tools like GitHub, Jira, and Slack.
-
----
-
-## 📝 Blog & Tutorials
-
-- [How to Build Responsive UIs in Flutter](#)
-- [State Management: Provider vs Bloc](#)
-- [Integrating Firebase with Flutter Apps](#)
-
----
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/sirak-nigus-g/))
 - [Portfolio Website](https://yourwebsite.com)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:siru67416@gmail.com)
 
 Thank you for checking out my portfolio! Feel free to reach out for collaborations or opportunities._
