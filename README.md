@@ -65,37 +65,46 @@ State management · Animations · Responsive UI · Testing · CI/CD
 
 ## 📌 Featured Projects
 
-#### 📱 FAAV
+### 📱 FAAV — Track Your Favorites
 A social discovery app to track and share your favorite books, movies, TV shows, places, and
-restaurants — organize items into lists, rate them, and share with friends. Live on the App Store
-and Google Play.
-`Flutter` `Dart` `Firebase` `Firestore` `Google Maps` `REST APIs`
-[Website](https://faav.app/) · [App Store](https://apps.apple.com/in/app/faav/id6483923746) · [Google Play](https://play.google.com/store/apps/details?id=app.faav.faavapp)
+restaurants — organize items into lists, rate them, and share with friends.
 
-#### 🎵 Jukebox Jr. — Parental Controls *(client project, NDA)*
+`Flutter` `Dart` `Firebase` `Firestore` `Google Maps` `REST APIs`
+
+[![Website](https://img.shields.io/badge/Website-faav.app-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://faav.app/)
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/in/app/faav/id6483923746)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=app.faav.faavapp)
+
+<br>
+
+### 🎵 Jukebox Jr. — Parental Controls
+*Client project (NDA) — details limited to public scope*
+
 A Flutter parental-control app that communicates with an embedded jukebox device over BLE and
 Wi-Fi — device connectivity, music library management, volume controls, and OTA firmware updates.
+
 `Flutter` `Dart` `BLE` `Wi-Fi` `ESP32` `Provider`
 
-#### 🛒 E-Commerce UI Starter Template
-A full e-commerce app UI built as a reusable starter/template using an MVC-style architecture with
-Provider — includes product listing, product detail, cart with live total calculation, and order
-history/detail pages.
-`Flutter` `Dart` `Provider` `MVC` · [Repo](#)
+<br>
 
-#### 🎮 2048 Mobile Game
+### 🛒 E-Commerce UI Starter Template
+A full e-commerce app UI built as a reusable starter/template using an MVC-style architecture with
+Provider — product listing & detail pages, cart with live total calculation, and order
+history/detail pages.
+
+`Flutter` `Dart` `Provider` `MVC`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+<br>
+
+### 🎮 2048 Mobile Game
 A Flutter implementation of the classic 2048 puzzle game, with swipe gestures and tile-merge
 animations.
-`Flutter` `Dart` · [Repo](https://github.com/Sirak-Nigus/2048-Mobile-Game)
 
----
+`Flutter` `Dart`
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sirak-Nigus&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirak-Nigus&layout=compact" />
-</p>
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sirak-Nigus/2048-Mobile-Game)
 
 ---
 
