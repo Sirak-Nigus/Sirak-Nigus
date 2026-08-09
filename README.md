@@ -69,7 +69,7 @@ State management · Animations · Responsive UI · Testing · CI/CD
 A social discovery app to track and share your favorite books, movies, TV shows, places, and
 restaurants — organize items into lists, rate them, and share with friends.
 
-`Flutter` `Dart` `Firebase` `Firestore` `Google Maps` `REST APIs`
+`Flutter` `Dart` `Firebase` `Firestore` `Google Maps` `REST APIs` 
 
 [![Website](https://img.shields.io/badge/Website-faav.app-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://faav.app/)
 [![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/in/app/faav/id6483923746)
@@ -78,7 +78,7 @@ restaurants — organize items into lists, rate them, and share with friends.
 <br>
 
 ### 🎵 Jukebox Jr. — Parental Controls
-*Client project (NDA) — details limited to public scope*
+
 
 A Flutter parental-control app that communicates with an embedded jukebox device over BLE and
 Wi-Fi — device connectivity, music library management, volume controls, and OTA firmware updates.
